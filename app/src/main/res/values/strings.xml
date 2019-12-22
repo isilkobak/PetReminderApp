@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PetRe</string>
+    <string name="action_settings">Settings</string>
+    <string name="channel_name">Daily</string>
+    <string name="channel_description">DailyNotifications</string>
+    <string name="food">Food and Water Reminder</string>
+    <string name="vaccine">Vaccine Reminder</string>
+    <string name="toilet">Toilet Reminder</string>
+    <string name="exercise">Daily Exercise Reminder</string>
+    channel_description
+</resources>
